@@ -1,2 +1,8 @@
-/Users/jianbingong/Desktop/ProjectsForWork/twitchPlus/src/main/java/com/jianbingong/twitchplus/entity/response/Game.java
-/Users/jianbingong/Desktop/ProjectsForWork/twitchPlus/src/main/java/com/jianbingong/twitchplus/HelloServlet.java
+/Users/jianbingong/Desktop/newProjects/twitchPlus/src/main/java/com/jianbingong/twitchplus/ApplicationConfig.java
+/Users/jianbingong/Desktop/newProjects/twitchPlus/src/main/java/com/jianbingong/twitchplus/entity/db/ItemType.java
+/Users/jianbingong/Desktop/newProjects/twitchPlus/src/main/java/com/jianbingong/twitchplus/service/TwitchException.java
+/Users/jianbingong/Desktop/newProjects/twitchPlus/src/main/java/com/jianbingong/twitchplus/service/GameService.java
+/Users/jianbingong/Desktop/newProjects/twitchPlus/src/main/java/com/jianbingong/twitchplus/entity/db/Item.java
+/Users/jianbingong/Desktop/newProjects/twitchPlus/src/main/java/com/jianbingong/twitchplus/controller/GameController.java
+/Users/jianbingong/Desktop/newProjects/twitchPlus/src/main/java/com/jianbingong/twitchplus/entity/response/Game.java
+/Users/jianbingong/Desktop/newProjects/twitchPlus/src/main/java/com/jianbingong/twitchplus/entity/db/User.java

@@ -1,3 +1,10 @@
+com/jianbingong/twitchplus/entity/response/Game$Builder.class
+com/jianbingong/twitchplus/entity/db/ItemType.class
+com/jianbingong/twitchplus/service/TwitchException.class
+com/jianbingong/twitchplus/entity/db/Item.class
+com/jianbingong/twitchplus/entity/response/Game.class
+com/jianbingong/twitchplus/controller/GameController.class
+com/jianbingong/twitchplus/entity/response/Game$1.class
+com/jianbingong/twitchplus/entity/db/User.class
 com/jianbingong/twitchplus/ApplicationConfig.class
 com/jianbingong/twitchplus/service/GameService.class
-com/jianbingong/twitchplus/controller/GameController.class
