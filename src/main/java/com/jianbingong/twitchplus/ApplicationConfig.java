@@ -25,7 +25,7 @@ public class ApplicationConfig {
     public DataSource dataSource() {
         String RDS_ENDPOINT = "twitchplus.cdnkooix14xh.us-east-2.rds.amazonaws.com";
         String USERNAME = "admin";
-        String PASSWORD = "sercret";
+        String PASSWORD = "Secret";
         DriverManagerDataSource dataSource = new DriverManagerDataSource();
         dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
         dataSource.setUrl("jdbc:mysql://" + RDS_ENDPOINT + ":3306/twitchplus?createDatabaseIfNotExist=true&serverTimezone=UTC");
